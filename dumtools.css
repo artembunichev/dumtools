@@ -1,0 +1,274 @@
+/*********************************
+	Tab Size
+**********************************/
+.cm-line {
+	tab-size : 6 !important;
+}
+
+
+
+/*********************************
+	Font
+**********************************/
+:host-context(#\-blink\-dev\-tools) {
+	--monospace-font-family : Monospace !important ;
+	--source-code-font-family : Monospace !important ;
+}
+
+
+
+/*********************************
+	Colors
+**********************************/
+
+:root {	
+	
+	--color-primary: #000000 !important;
+	--color-primary-bright: #000000 !important;
+	--color-tertiary-bright : #000000 !important;
+	
+	
+	
+	/********************
+		HTML Syntax
+	********************/
+	
+	
+	--sys-color-token-variable: #000000 !important;
+	--sys-color-token-property: #000000 !important;
+	--sys-color-token-property-special: #000000 !important;
+	--sys-color-token-type: #000000 !important;
+	--sys-color-token-definition: #000000 !important;
+	--sys-color-token-variable-special: #000000 !important;
+	--sys-color-token-builtin: #000000 !important;
+	--sys-color-token-keyword: #000000 !important;
+	--sys-color-token-number: #000000 !important;
+	--sys-color-token-string: #000000 !important;
+	--sys-color-token-string-special: #000000 !important;
+	--sys-color-token-atom: #000000 !important;
+	--sys-color-token-tag: #000000 !important;
+	--sys-color-token-attribute: #000000 !important;
+	--sys-color-token-attribute-value: #000000 !important;
+	--sys-color-token-comment: #000000 !important;
+	--sys-color-token-meta: #000000 !important;
+	--sys-color-token-deleted: #000000 !important;
+	--sys-color-token-inserted: #000000 !important;
+	--sys-color-token-pseudo-element: #000000 !important;
+	--sys-color-token-subtle: #000000 !important;
+	
+	--sys-color-tonal-container : #0000001c !important;
+	
+	
+	
+	
+	/********************
+		Editor Syntax
+	********************/
+	
+	--color-token-variable: #000000 !important;
+	--color-token-property: #000000 !important;
+	--color-token-type: #000000 !important;
+	--color-token-definition: #000000 !important;
+	--color-token-variable-special: #000000 !important;
+	--color-token-builtin: #000000 !important;
+	--color-token-keyword: #000000 !important;
+	--color-token-number: #000000 !important;
+	--color-token-string: #000000 !important;
+	--color-token-string-special: #000000 !important;
+	--color-token-atom: #000000 !important;
+	--color-token-tag: #000000 !important;
+	--color-token-attribute: #000000 !important;
+	--color-token-attribute-value: #000000 !important;
+	--color-token-comment: #000000 !important;
+	--color-token-meta: #000000 !important;
+	--color-token-deleted: #000000 !important;
+	--color-token-inserted: #000000 !important;
+	
+	
+	--color-line-number: #000000 !important;
+	
+	
+	
+	/********************
+		Debugger
+	********************/
+	--color-execution-token-background : #a8a8a8 !important;
+	
+	--color-execution-line-background : #c7c7c75d !important;
+	--color-execution-line-outline : #000000 !important;
+	
+	--color-evaluated-expression : #c7c7c7 !important ;
+	--color-evaluated-expression-border : #000000 !important ;
+	
+	
+	
+	/********************
+		Bracket Match
+	********************/
+	
+	--color-nonmatching-bracket-background : #00000000 !important;
+	--color-nonmatching-bracket-underline : #00000000 !important;
+	
+	--color-matching-bracket-background : #00000000 !important;
+	--color-matching-bracket-underline : #00000000 ! important;
+	
+	
+	
+	
+	
+	/********************
+		Console Syntax
+	********************/
+	
+	--color-syntax-1: #000000 !important;
+	--color-syntax-2: #000000 !important;
+	--color-syntax-3: #000000 !important;
+	--color-syntax-4: #000000 !important;
+	--color-syntax-5: #000000 !important;
+	--color-syntax-6: #000000 !important;
+	--color-syntax-7: #000000 !important;
+	--color-syntax-8: #000000 !important;
+	
+	
+	
+	
+	/********************
+		Icons
+	********************/
+	
+	--icon-file-authored: #000000 !important;
+	--icon-file-default: #000000 !important;
+	--icon-file-document: #000000 !important;
+	--icon-file-font: #000000 !important;
+	--icon-file-media: #000000 !important;
+	--icon-file-image: #000000 !important;
+	--icon-file-script: #000000 !important;
+	--icon-file-styles: #000000 !important;
+	--icon-fold-marker: #000000 !important;
+	--icon-folder-authored: #000000 !important;
+	--icon-folder-primary: #000000 !important;
+	--icon-folder-deployed: #000000 !important;
+	--icon-folder-workspace: #000000 !important;
+	--icon-force-white: #000000 !important;
+	
+	--icon-warning : #000000 !important ;
+	--icon-info : #000000 !important;
+	--icon-action : #000000 !important;
+
+}
+
+.devtools-link {
+	color : #000000 !important;
+	font-weight : bold !important;
+}
+
+.icon-basic {
+	background-color : #000000 !important;
+}
+
+input {
+	accent-color : #000000 !important;
+}
+
+.value {
+	color : #000000 !important ;
+}
+
+
+
+/********************
+	Breakpoints
+********************/
+.ͼ1 .cm-gutters .cm-gutter.cm-lineNumbers .cm-gutterElement.cm-breakpoint , .cm-gutterElement:hover {
+	-webkit-border-image : none !important ;
+	background-color : #c7c7c7 !important ;
+	border-color : #00000000 !important ;
+}
+.ͼ1 .cm-gutters .cm-gutter.cm-lineNumbers .cm-gutterElement.cm-breakpoint {
+	background-color : #000000 !important;
+}
+
+
+
+
+/********************
+	Tabs
+********************/
+
+.tabbed-pane-header-tab.selected ,
+.tabbed-pane-header-tab
+{
+	color : #000000 !important;
+}
+
+.tabbed-pane-tab-slider {
+	background-color : #000000 !important;
+}
+
+
+
+
+
+/**********************************
+	Remove
+**********************************/
+
+
+.object-state-note
+{
+	display : none !important;
+}
+
+
+
+/********************
+	Remove Console Eager Preview
+********************/
+.console-eager-preview
+{
+	display : none !important ;
+}
+
+
+/********************
+	Remove Console And Editor Autocomplete
+********************/
+.cm-tooltip-autocomplete
+{
+	display :none !important;
+}
+
+
+/********************
+	Remove Argument Hints
+********************/
+.cm-argumentHints
+{
+	display : none !important;
+}
+
+
+/********************
+	Remove Editor Fold Gutter
+********************/
+.cm-foldGutter .cm-gutterElement
+{
+	display : none !important ;
+}
+.cm-lineNumbers
+{
+	padding-right : 6px !important;
+}
+
+
+/********************
+	Remove Editor Toolbar
+********************/
+
+.toolbar-divider ,
+.sources-toolbar
+{
+	display : none ! important;
+}
+
+
