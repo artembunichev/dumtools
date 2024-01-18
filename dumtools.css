@@ -25,9 +25,15 @@
 	
 	--color-primary: #000000 !important;
 	--color-primary-bright: #000000 !important;
+	--color-primary-old : #000000 !important;
+	--color-primary-variant : #000000 !important;
 	--color-tertiary-bright : #000000 !important;
 	
+	--color-link : #000000 !important;
 	--text-link : #000000 !important ;
+	
+	--color-checkbox-accent-color : #000000 !important;
+	
 	
 	
 	/********************
@@ -58,6 +64,10 @@
 	--sys-color-token-subtle: #000000 !important;
 	
 	--sys-color-tonal-container : #0000001c !important;
+	
+	--sys-color-primary : #000000 !important;
+	--sys-color-primary-bright : #000000 !important ;
+	--sys-color-secondary : #000000 !important;
 	
 	
 	
@@ -155,7 +165,12 @@
 	--icon-warning : #000000 !important ;
 	--icon-info : #000000 !important;
 	--icon-action : #000000 !important;
-
+	
+	
+	--icon-default : #7c7c7cba !important ;
+	--icon-toggled : #000000 ! important;
+	
+	
 }
 
 .devtools-link {
