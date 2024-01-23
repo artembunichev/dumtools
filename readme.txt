@@ -20,7 +20,7 @@ What Changes:
 Installation:
 
 1. Clone this repo:
-	`git clone https://github.com/artembunichev/dumtools.git`
+	git clone https://github.com/artembunichev/dumtools.git
 
 2. Change styles, if you want ( e.g. font family or tab size ).
 
