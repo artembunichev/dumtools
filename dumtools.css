@@ -62,6 +62,8 @@
 	--sys-color-token-inserted: #000000 !important;
 	--sys-color-token-pseudo-element: #000000 !important;
 	--sys-color-token-subtle: #000000 !important;
+	--sys-color-surface-yellow: #ffffff!important;
+	--sys-color-surface-error: #ffffff!important;
 	
 	--sys-color-tonal-container : #0000001c !important;
 	
@@ -166,6 +168,16 @@
 	--icon-info : #000000 !important;
 	--icon-action : #000000 !important;
 	
+	--icon-no-request: #000000!important;
+	--icon-primary: #000000!important;
+	--icon-record: #000000!important;
+	--icon-request-response: #000000!important;
+	--icon-request: #000000!important;
+	--icon-security-lock: #000000!important ;
+	--icon-css: #000000!important;
+	--icon-css-hover: #000000!important;
+	--icon-status-code-ok: #000000!important;
+	--icon-stop: #000000!important;
 	
 	--icon-default : #7c7c7cba !important ;
 	--icon-toggled : #000000 ! important;
