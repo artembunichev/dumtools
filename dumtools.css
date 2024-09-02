@@ -28,12 +28,33 @@
 	--color-primary-old : #000000 !important;
 	--color-primary-variant : #000000 !important;
 	--color-tertiary-bright : #000000 !important;
+	--color-green:#000000!important;
+	--sys-color-green-bright:#important;
+	--color-checkbox-accent-color : #000000 !important;
+	--sys-color-state-on-header-hover:#000000!important;
+	--issue-color-blue:#000000!important;
+	--color-selection-highlight-border:#000000!important;
+	--color-button-primary-background-pressed:#000000!important;
+	--sys-color-divider:#000000!important;
+	--sys-color-surface1:#ffffff!important;
+	--sys-color-surface2:#ffffff!important;
+	--sys-color-surface3:#ffffff!important;
+	--sys-color-surface4:#ffffff!important;
+	--sys-color-surface5:#ffffff!important;
+	--sys-color-neutral-outline:#000000!important;
+	
+	--sys-color-error-outline:#a90000!important;
+	--override-error-text-color:#a90000!important;
+	
+	--app-color-active-breadcrumb:#000000!important;
+	--app-color-scripting:#000000!important;
+	--app-color-async:#000000!important;
 	
 	--color-link : #000000 !important;
 	--text-link : #000000 !important ;
 	
-	--color-checkbox-accent-color : #000000 !important;
 	
+	--sys-color-state-focus-ring:#000000!important;
 	
 	
 	/********************
@@ -64,6 +85,8 @@
 	--sys-color-token-subtle: #000000 !important;
 	--sys-color-surface-yellow: #ffffff!important;
 	--sys-color-surface-error: #ffffff!important;
+	--sys-color-tonal-outline:#000000!important;
+	
 	
 	--sys-color-tonal-container : #0000001c !important;
 	
@@ -149,6 +172,7 @@
 		Icons
 	********************/
 	
+	--icon-default:#000000!important;
 	--icon-file-authored: #000000 !important;
 	--icon-file-default: #000000 !important;
 	--icon-file-document: #000000 !important;
