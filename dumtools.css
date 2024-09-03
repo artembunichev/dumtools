@@ -28,6 +28,7 @@
 	--color-primary-old : #000000 !important;
 	--color-primary-variant : #000000 !important;
 	--color-tertiary-bright : #000000 !important;
+	--color-accent-green:#000000!important;
 	--color-green:#000000!important;
 	--sys-color-green-bright:#important;
 	--color-checkbox-accent-color : #000000 !important;
@@ -42,19 +43,32 @@
 	--sys-color-surface4:#ffffff!important;
 	--sys-color-surface5:#ffffff!important;
 	--sys-color-neutral-outline:#000000!important;
+	--override-adorner-background-color:#ffffff!important;
+	--sys-color-neutral-container:#ffffff!important;
+	--sys-color-state-hover-dim-blend-protection:#000000!important;
+	--ui-text:#000000!important;
+	--text-primary:#000000!important;
+	--sys-color-on-yellow-container:#000000!important;
+	--sys-color-on-surface-yellow:#000000!important;
+	--sys-color-state-focus-ring:#000000!important;
 	
+	/*Errors.*/
 	--sys-color-error-outline:#a90000!important;
+	--sys-color-on-surface-error:#a90000!important;
 	--override-error-text-color:#a90000!important;
-	
+	--color-accent-red:#a90000!important;
+	--color-red:#a90000!important;
+	--icon-error:#a90000!important;
+	--icon-checkmark-red:#a90000!important;
+	--icon-contrast-issue:#a90000!important;
+
+	--app-border-selected-progress-bar:#000000!important;	
 	--app-color-active-breadcrumb:#000000!important;
 	--app-color-scripting:#000000!important;
 	--app-color-async:#000000!important;
 	
 	--color-link : #000000 !important;
 	--text-link : #000000 !important ;
-	
-	
-	--sys-color-state-focus-ring:#000000!important;
 	
 	
 	/********************
@@ -192,6 +206,7 @@
 	--icon-info : #000000 !important;
 	--icon-action : #000000 !important;
 	
+	--icon-default-hover:#000000!important;
 	--icon-no-request: #000000!important;
 	--icon-primary: #000000!important;
 	--icon-record: #000000!important;
