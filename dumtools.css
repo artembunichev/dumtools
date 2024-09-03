@@ -51,6 +51,9 @@
 	--sys-color-on-yellow-container:#000000!important;
 	--sys-color-on-surface-yellow:#000000!important;
 	--sys-color-state-focus-ring:#000000!important;
+	--sys-color-on-base:#000000!important;
+	--sys-color-inverse-surface:#000000!important;
+	--sys-color-outline:#000000!important;
 	
 	/*Errors.*/
 	--sys-color-error-outline:#a90000!important;
