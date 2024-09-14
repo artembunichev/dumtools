@@ -226,6 +226,24 @@
 	
 	
 }
+.console-message-wrapper{
+--console-color-black: #00000000!important;
+--console-color-red: #00000000!important;
+--console-color-green: #00000000!important;
+--console-color-yellow: #00000000!important;
+--console-color-blue: #00000000!important;
+--console-color-magenta: #00000000!important;
+--console-color-cyan: #00000000!important;
+--console-color-gray: #00000000!important;
+--console-color-darkgray: #00000000!important;
+--console-color-lightred: #00000000!important;
+--console-color-lightgreen: #00000000!important;
+--console-color-lightyellow: #00000000!important;
+--console-color-lightblue: #00000000!important;
+--console-color-ightmagenta: #00000000!important;
+--console-color-lightcyan: #00000000!important;
+--console-color-white: #00000000!important;
+}
 
 .devtools-link {
 	font-weight : bold !important;
